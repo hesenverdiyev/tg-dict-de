@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "title": "Welcome to InnovateTech Solutions",
+    "subtitle": "Transforming businesses through cutting-edge technology solutions",
+    "buttonText": "Başla",
+    "backgroundImage": "https://images.pexels.com/photos/3184638/pexels-photo-3184638.jpeg"
+  },
+  "about": {
+    "title": "About Our Company",
+    "description": "We are a leading technology company specializing in innovative solutions that drive business growth and digital transformation.",
+    "mission": "To empower businesses with technology solutions that create lasting value and competitive advantages.",
+    "vision": "To be the most trusted technology partner for companies seeking digital excellence.",
+    "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg"
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "description": "Custom web applications built with modern technologies",
+      "icon": "💻",
+      "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Mobile Apps",
+      "description": "Native and cross-platform mobile applications",
+      "icon": "📱",
+      "image": "https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Cloud Solutions",
+      "description": "Scalable cloud infrastructure and migration services",
+      "icon": "☁️",
+      "image": "https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg"
+    }
+  ],
+  "contact": {
+    "address": "123 Tech Street, Innovation City, IC 12345",
+    "phone": "+1 (555) 123-4567",
+    "email": "info@innovatetech.com"
+  }
+}

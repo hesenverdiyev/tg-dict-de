@@ -1,0 +1,93 @@
+<%- include('partials/header', { title: 'Services - InnovateTech Solutions' }) %>
+
+<div class="page-header bg-primary text-white py-5 mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <h1 class="display-4 fw-bold">Our Services</h1>
+                <p class="lead">Comprehensive technology solutions for your business</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="py-5">
+    <div class="container">
+        <div class="row g-4">
+            <% data.services.forEach((service, index) => { %>
+            <div class="col-lg-4 col-md-6">
+                <div class="service-card h-100">
+                    <div class="service-image">
+                        <img src="<%= service.image %>" alt="<%= service.title %>" class="img-fluid">
+                        <div class="service-overlay">
+                            <div class="service-icon">
+                                <%= service.icon %>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-content p-4">
+                        <h4 class="fw-bold mb-3"><%= service.title %></h4>
+                        <p class="text-muted mb-4"><%= service.description %></p>
+                        <ul class="list-unstyled text-muted mb-4">
+                            <li><i class="fas fa-check text-primary me-2"></i>Custom Solutions</li>
+                            <li><i class="fas fa-check text-primary me-2"></i>Expert Support</li>
+                            <li><i class="fas fa-check text-primary me-2"></i>Scalable Systems</li>
+                        </ul>
+                        <a href="/contact" class="btn btn-primary">Get Quote</a>
+                    </div>
+                </div>
+            </div>
+            <% }) %>
+        </div>
+    </div>
+</section>
+
+<section class="py-5 bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <h2 class="fw-bold mb-4">Why Choose Our Services?</h2>
+                <div class="row g-4">
+                    <div class="col-md-3">
+                        <div class="benefit-item text-center">
+                            <div class="benefit-icon mb-3">
+                                <i class="fas fa-rocket text-primary fs-1"></i>
+                            </div>
+                            <h6 class="fw-bold">Fast Delivery</h6>
+                            <small class="text-muted">Quick turnaround times</small>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="benefit-item text-center">
+                            <div class="benefit-icon mb-3">
+                                <i class="fas fa-shield-alt text-primary fs-1"></i>
+                            </div>
+                            <h6 class="fw-bold">Secure</h6>
+                            <small class="text-muted">Enterprise-grade security</small>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="benefit-item text-center">
+                            <div class="benefit-icon mb-3">
+                                <i class="fas fa-chart-line text-primary fs-1"></i>
+                            </div>
+                            <h6 class="fw-bold">Scalable</h6>
+                            <small class="text-muted">Grows with your business</small>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="benefit-item text-center">
+                            <div class="benefit-icon mb-3">
+                                <i class="fas fa-headset text-primary fs-1"></i>
+                            </div>
+                            <h6 class="fw-bold">Support</h6>
+                            <small class="text-muted">24/7 customer support</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<%- include('partials/footer') %>

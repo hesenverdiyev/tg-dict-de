@@ -1,0 +1,98 @@
+<%- include('partials/header', { title: 'Contact Us - InnovateTech Solutions' }) %>
+
+<div class="page-header bg-primary text-white py-5 mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <h1 class="display-4 fw-bold">Contact Us</h1>
+                <p class="lead">Get in touch with our team</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="py-5">
+    <div class="container">
+        <% if (message) { %>
+        <div class="row mb-4">
+            <div class="col-lg-8 mx-auto">
+                <div class="alert alert-<%= message.type === 'success' ? 'success' : 'danger' %> alert-dismissible fade show">
+                    <%= message.text %>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            </div>
+        </div>
+        <% } %>
+        
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
+                <div class="row">
+                    <div class="col-md-8 mb-4">
+                        <div class="contact-form bg-light p-4 rounded">
+                            <h3 class="fw-bold mb-4">Send us a Message</h3>
+                            <form action="/contact" method="POST">
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label for="name" class="form-label">Full Name</label>
+                                        <input type="text" class="form-control" id="name" name="name" required>
+                                    </div>
+                                    <div class="col-md-6 mb-3">
+                                        <label for="email" class="form-label">Email Address</label>
+                                        <input type="email" class="form-control" id="email" name="email" required>
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="message" class="form-label">Message</label>
+                                    <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
+                                </div>
+                                <button type="submit" class="btn btn-primary btn-lg">
+                                    <i class="fas fa-paper-plane me-2"></i>Send Message
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="contact-info">
+                            <h4 class="fw-bold mb-4">Get in Touch</h4>
+                            <div class="contact-item mb-4">
+                                <div class="d-flex align-items-start">
+                                    <div class="flex-shrink-0">
+                                        <i class="fas fa-map-marker-alt text-primary fs-4"></i>
+                                    </div>
+                                    <div class="flex-grow-1 ms-3">
+                                        <h6 class="fw-bold mb-1">Address</h6>
+                                        <p class="text-muted mb-0"><%= data.contact.address %></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="contact-item mb-4">
+                                <div class="d-flex align-items-start">
+                                    <div class="flex-shrink-0">
+                                        <i class="fas fa-phone text-primary fs-4"></i>
+                                    </div>
+                                    <div class="flex-grow-1 ms-3">
+                                        <h6 class="fw-bold mb-1">Phone</h6>
+                                        <p class="text-muted mb-0"><%= data.contact.phone %></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="contact-item mb-4">
+                                <div class="d-flex align-items-start">
+                                    <div class="flex-shrink-0">
+                                        <i class="fas fa-envelope text-primary fs-4"></i>
+                                    </div>
+                                    <div class="flex-grow-1 ms-3">
+                                        <h6 class="fw-bold mb-1">Email</h6>
+                                        <p class="text-muted mb-0"><%= data.contact.email %></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<%- include('partials/footer') %>
