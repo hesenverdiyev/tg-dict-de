@@ -189,7 +189,7 @@ sendSentencesAndTTS();
 setInterval(sendSentencesAndTTS, POST_INTERVAL);
 
 // ✅ Ping (Render gibi yerlerde uyanık tutmak için)
-const url = `https://tg-dict-pl.onrender.com/`;
+const url = `https://tg-dict-de.onrender.com/`;
 const interval = 300000;
 let firstPingLogged = false;
 
