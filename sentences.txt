@@ -1,45 +1,3 @@
-•  die Minute - dəqiqə
-Ich warte fünf Minuten. - Mən beş dəqiqə gözləyirəm.
-•  holen - gətirmək, gedib almaq
-Soll ich uns etwas zu trinken holen? - Bizə içməyə nəsə gətirim?
-•  gleich - eyni, bərabər
-Ich komme gleich. - Elə indi gəlirəm.
-•  prüfen - yoxlamaq
-Bitte prüfen Sie die Rechnung sofort. - Zəhmət olmasa, hesabı dərhal yoxlayın.
-•  das Mittagessen - nahar
-Um zwölf Uhr gibt es Mittagessen. - Saat on ikidə nahar olur.
-•  der Dienstag - çərşənbə axşamı
-Am Dienstag arbeite ich nicht. - Çərşənbə axşamı işləmirəm.
-•  verbessern - inkişaf etdirmək
-Ich will mein Deutsch verbessern. - Mən alman dilimi inkişaf etdirmək istəyirəm.
-•  das Wort - söz
-Ich kenne dieses Wort nicht. - Mən bu sözü bilmirəm.
-•  der Stiefel - çəkmə
-Wie viel kosten die roten Stiefel? - Qırmızı çəkmələr nə qədərdir?
-•  die Schere - qayçı
-Die Schere schneidet nicht gut. Hast du eine andere? - Qayçı yaxşı kəsmir. Başqası var?
-•  automatisch - avtomatik
-Achtung, die Türen schließen automatisch! - Diqqət, qapılar avtomatik bağlanır!
-•  der Großvater - baba
-Mein Großvater ist schon 80. - Mənim babam artıq 80 yaşındadır.
-•  eigen.. - öz
-Nicht alle Kinder haben ein eigenes Zimmer. - Bütün uşaqların öz otağı yoxdur.
-•  aus - ..dan/..dən; söndürülmüş
-Michele kommt aus Brasilien. - Mişel Braziliyadandır.
-•  der Salat - salat
-Wie schmeckt dir der Salat? - Salatın dadı necədir?
-•  arm - kasıb
-Sie haben nicht viel Geld, sie sind arm. - Onların çox pulu yoxdur, kasıbdırlar.
-•  grau - boz
-Der Himmel ist grau. - Səma boz rəngdədir.
-•  der Waldr - meşə
-Im Wald ist es ruhig. - Meşədə sakitdir.
-•  das Café - kafe
-Sollen wir uns im Café treffen? - Kafedə görüşək?
-•  bequem - rahat
-Das Sofa ist sehr bequem. - Divan çox rahatdır.
-•  zuverlässig - güvənli, etibarlı
-Er ist ein zuverlässiger Freund. - O, etibarlı dostdur.
 •  das System - sistem
 Das System funktioniert nicht. - Sistem işləmir.
 •  fahren - sürmək, getmək (miniklə)
@@ -2716,7 +2674,7 @@ Sie entdecken eine neue Insel. - Onlar yeni ada kəşf edirlər.
 Der Film war sehr komisch. Wir haben viel gelacht. - Film çox gülməli idi. Biz çox güldük.
 •  frisch - təzə
 Das Brot ist noch ganz frisch. - Çörək hələ tamamilə təzədir.
-•  schmecken - dadı olmaq, dadlı olmaq
+•  schmecken - dad vermək, dadı olmaq
 Schmeckt dir die Suppe? - Şorba xoşuna gəlir?
 •  die Kleidung - geyim
 Wo finde ich Kleidung? ..Hosen im ersten, Kleider und Röcke im zweiten Stock. - Geyimi harada tapa bilərəm? ..Şalvarlar ikinci, paltarlar və ətəklər üçüncü mərtəbədədir.
@@ -3166,3 +3124,191 @@ Wir verbinden die zwei Kabel. - Biz iki kabeli birləşdiririk.
 Haben Sie noch ein Einzelzimmer? - Hələ təkadamlıq otağınız var?
 •  lieber - daha çox (tərcih)
 Sie fährt lieber mit der Bahn. - O, qatarla getməyi üstün tutur.
+•  der Gast - qonaq
+Der Gast wartet an der Rezeption. - Qonaq qəbulda gözləyir.
+•  die Reservierung - rezervasiya
+Ich habe eine Reservierung für heute. - Bu gün üçün rezervasiyam var.
+•  der Schlüssel - açar
+Hier ist Ihr Schlüssel, bitte. - Buyurun, açarınız.
+•  die Karte - kart (otaq kartı)
+Die Karte öffnet die Zimmertür. - Kart otağın qapısını açır.
+•  der Aufzug - lift
+Der Aufzug ist leider kaputt. - Təəssüf ki, lift xarabdır.
+•  die Treppe - pilləkən
+Die Treppe befindet sich rechts. - Pilləkən sağ tərəfdədir.
+•  das Stockwerk - mərtəbə
+Ihr Zimmer liegt im zweiten Stockwerk. - Otağınız ikinci mərtəbədədir.
+•  der Flur - dəhliz, koridor
+Der Flur ist sehr lang. - Dəhliz çox uzundur.
+•  der Eingang - giriş
+Der Eingang ist neben dem Café. - Giriş kafenin yanındadır.
+•  der Ausgang - çıxış
+Der Ausgang ist dort links. - Çıxış orada solda yerləşir.
+•  das Gebäude - bina
+Das Gebäude hat zehn Stockwerke. - Binanın on mərtəbəsi var.
+•  der Parkplatz - avtomobil dayanacağı
+Der Parkplatz ist für Gäste kostenlos. - Dayanacaq qonaqlar üçün pulsuzdur.
+•  das Gepäck - baqaj, yük
+Wir bringen Ihr Gepäck aufs Zimmer. - Baqajınızı otağa gətiririk.
+•  der Aufenthalt - qalma, yaşama müddəti
+Wir wünschen Ihnen einen angenehmen Aufenthalt. - Sizə burada xoş günlər arzulayırıq.
+•  das Einzelzimmer - birnəfərlik otaq
+Ich möchte ein Einzelzimmer buchen. - Birnəfərlik otaq sifariş etmək istəyirəm.
+•  das Doppelzimmer - i̇kinəfərlik otaq
+Das Doppelzimmer hat einen Balkon. - İkinəfərlik otağın balkonu var.
+•  das Bett - çarpayı
+Das Bett ist sehr bequem. - Çarpayı çox rahatdır.
+•  das Kissen - yastıq
+Ich brauche noch ein Kissen. - Mənə bir yastıq da lazımdır.
+•  die Decke - yorğan, örtük
+Im Schrank ist eine Decke. - Şkafda bir yorğan var.
+•  das Laken - çarşaf
+Das Laken muss gewechselt werden. - Çarşaf dəyişdirilməlidir.
+•  das Handtuch - dəsmal
+Bitte bringen Sie ein Handtuch. - Zəhmət olmasa, bir dəsmal gətirin.
+•  das Badezimmer - vanna otağı
+Das Badezimmer ist sehr sauber. - Vanna otağı çox təmizdir.
+•  der Spiegel - güzgü
+Der Spiegel hängt über dem Waschbecken. - Güzgü əl yuyucunun üstündən asılıb.
+•  der Kleiderschrank - paltar şkafı
+Der Kleiderschrank ist ziemlich groß. - Paltar şkafı kifayət qədər böyükdür.
+•  der Stuhl - stul
+Wir brauchen noch einen Stuhl. - Bizə bir stul da lazımdır.
+•  der Fernseher - televizor
+Der Fernseher funktioniert nicht richtig. - Televizor düzgün işləmir.
+•  die Klimaanlage - kondisioner
+Die Klimaanlage ist zu laut. - Kondisionerin səsi çox yüksəkdir.
+•  die Heizung - qızdırıcı, istilik sistemi
+Die Heizung ist im Zimmer kaputt. - Otaqda qızdırıcı xarabdır.
+•  der Reisepass - xarici pasport
+Bitte zeigen Sie Ihren Reisepass. - Zəhmət olmasa, pasportunuzu göstərin.
+•  die Anmeldung - qeydiyyat
+Die Anmeldung dauert nur eine Minute. - Qeydiyyat cəmi bir dəqiqə çəkir.
+•  belegt - məşğul
+Das Zimmer ist leider schon belegt. - Təəssüf ki, otaq artıq məşğuldur.
+•  die Bestätigung - təsdiq
+Sie erhalten die Bestätigung per E-Mail. - Təsdiqi e-poçtla alacaqsınız.
+•  die Stornierung - ləğv etmə
+Die Stornierung ist kostenlos möglich. - Ləğv etmək pulsuz mümkündür.
+•  die Zahlung - ödəniş
+Die Zahlung erfolgt bei Abreise. - Ödəniş getdiyiniz zaman edilir.
+•  die Rechnung - hesab (faktura)
+Kann ich die Rechnung haben? - Hesabı ala bilərəm?
+•  die Quittung - qəbz
+Ich brauche bitte eine Quittung. - Zəhmət olmasa, mənə qəbz lazımdır.
+•  die Anzahlung - avans, depozit
+Wir verlangen eine kleine Anzahlung. - Biz kiçik bir avans tələb edirik.
+•  die Reinigung - təmizlik
+Die Reinigung beginnt um zehn Uhr. - Təmizlik saat onda başlayır.
+•  die Reinigungskraft - təmizlik işçisi
+Die Reinigungskraft kommt jeden Morgen. - Təmizlik işçisi hər səhər gəlir.
+•  schmutzig - çirkli
+Das Handtuch ist leider schmutzig. - Təəssüf ki, dəsmal çirklidir.
+•  die Seife - sabun
+Im Bad fehlt die Seife. - Vannada sabun çatmır.
+•  der Föhn - saç qurudan
+Gibt es im Zimmer einen Föhn? - Otaqda saç qurudan var?
+•  die Bürste - fırça
+Die Bürste liegt auf dem Tisch. - Fırça masanın üstündədir.
+•  der Eimer - vedrə
+Der Eimer steht im Bad. - Vedrə vannadadır.
+•  der Wischmopp - mop (döşəmə silən)
+Sie braucht einen neuen Wischmopp. - Ona yeni mop lazımdır.
+•  der Staubsauger - tozsoran
+Der Staubsauger ist sehr laut. - Tozsoran çox səs-küylüdür.
+•  der Abfall - zibil, tullantı
+Der Abfall kommt in die Tonne. - Tullantılar zibil qabına atılır.
+•  der Papierkorb - zibil səbəti
+Der Papierkorb ist schon voll. - Zibil səbəti artıq doludur.
+•  die Wäsche - camaşır, paltar
+Die Wäsche ist morgen fertig. - Camaşır sabah hazır olacaq.
+•  das Bügeln - ütüləmə
+Das Bügeln kostet zwei Euro extra. - Ütüləmə əlavə iki avro tutur.
+•  die Wäscherei - camaşırxana
+Die Wäscherei ist im Keller. - Camaşırxana zirzəmidədir.
+•  das Reinigungsmittel - təmizlik vasitəsi
+Das Reinigungsmittel riecht sehr stark. - Təmizlik vasitəsinin qoxusu çox güclüdür.
+•  der Geruch - qoxu
+Im Zimmer ist ein komischer Geruch. - Otaqda qəribə bir qoxu var.
+•  der Boden - döşəmə
+Der Boden ist noch nass. - Döşəmə hələ islaqdır.
+•  das Frühstück - səhər yeməyi
+Das Frühstück gibt es um sieben. - Səhər yeməyi saat yeddidə təqdim olunur.
+•  das Mittagessen - nahar
+Das Mittagessen ist ab zwölf Uhr. - Nahar saat on ikidən başlayır.
+•  das Abendessen - şam yeməyi
+Das Abendessen wird um sieben serviert. - Şam yeməyi saat yeddidə servis edilir.
+•  die Speisekarte - menyu
+Kann ich die Speisekarte sehen? - Menyuya baxa bilərəm?
+•  das Wasser - su
+Ich hätte gern ein Glas Wasser. - Bir stəkan su istərdim.
+•  der Tee - çay
+Ich möchte einen schwarzen Tee. - Mən bir qara çay istəyirəm.
+•  die Milch - süd
+Möchten Sie Milch im Kaffee? - Qəhvənin içinə süd istəyirsiniz?
+•  das Brot - çörək
+Das Brot ist frisch gebacken. - Çörək təzə bişirilib.
+•  das Fleisch - ət
+Ich esse gar kein Fleisch. - Mən ümumiyyətlə ət yemirəm.
+•  der Fisch - balıq
+Der Fisch schmeckt heute sehr gut. - Balıq bu gün çox dadlıdır.
+•  das Hähnchen - toyuq
+Wir haben heute gegrilltes Hähnchen. - Bu gün qrilləmə toyuğumuz var.
+•  das Gemüse - tərəvəz
+Das Gemüse ist ganz frisch. - Tərəvəz tamamilə təzədir.
+•  das Obst - meyvə
+Zum Frühstück gibt es Obst. - Səhər yeməyində meyvə verilir.
+•  das Salz - duz
+Können Sie mir Salz bringen? - Mənə duz gətirə bilərsiniz?
+•  der Zucker - şəkər
+Ich nehme keinen Zucker, danke. - Mən şəkər götürmürəm, təşəkkür.
+•  die Gabel - çəngəl
+Ich brauche eine saubere Gabel. - Mənə təmiz bir çəngəl lazımdır.
+•  der Löffel - qaşıq
+Bitte bringen Sie einen Löffel. - Zəhmət olmasa, bir qaşıq gətirin.
+•  das Messer - bıçaq
+Das Messer ist sehr scharf. - Bıçaq çox itidir.
+•  Einen schönen Tag noch - gününüz xeyirli olsun
+Einen schönen Tag noch, auf Wiedersehen! - Gününüz xeyirli olsun, görüşənədək!
+•  die Minute - dəqiqə
+Ich warte fünf Minuten. - Mən beş dəqiqə gözləyirəm.
+•  holen - gətirmək, gedib almaq
+Soll ich uns etwas zu trinken holen? - Bizə içməyə nəsə gətirim?
+•  gleich - eyni, bərabər, elə indi
+Ich komme gleich. - Elə indi gəlirəm.
+•  prüfen - yoxlamaq
+Bitte prüfen Sie die Rechnung sofort. - Zəhmət olmasa, hesabı dərhal yoxlayın.
+•  das Mittagessen - nahar
+Um zwölf Uhr gibt es Mittagessen. - Saat on ikidə nahar olur.
+•  der Dienstag - çərşənbə axşamı
+Am Dienstag arbeite ich nicht. - Çərşənbə axşamı işləmirəm.
+•  verbessern - inkişaf etdirmək
+Ich will mein Deutsch verbessern. - Mən alman dilimi inkişaf etdirmək istəyirəm.
+•  das Wort - söz
+Ich kenne dieses Wort nicht. - Mən bu sözü bilmirəm.
+•  der Stiefel - çəkmə
+Wie viel kosten die roten Stiefel? - Qırmızı çəkmələr nə qədərdir?
+•  die Schere - qayçı
+Die Schere schneidet nicht gut. Hast du eine andere? - Qayçı yaxşı kəsmir. Başqası var?
+•  automatisch - avtomatik
+Achtung, die Türen schließen automatisch! - Diqqət, qapılar avtomatik bağlanır!
+•  der Großvater - baba
+Mein Großvater ist schon 80. - Mənim babam artıq 80 yaşındadır.
+•  eigen.. - öz
+Nicht alle Kinder haben ein eigenes Zimmer. - Bütün uşaqların öz otağı yoxdur.
+•  aus - ..dan/..dən; söndürülmüş
+Michele kommt aus Brasilien. - Mişel Braziliyadandır.
+•  der Salat - salat
+Wie schmeckt dir der Salat? - Salatın dadı necədir?
+•  arm - kasıb
+Sie haben nicht viel Geld, sie sind arm. - Onların çox pulu yoxdur, kasıbdırlar.
+•  grau - boz
+Der Himmel ist grau. - Səma boz rəngdədir.
+•  der Waldr - meşə
+Im Wald ist es ruhig. - Meşədə sakitdir.
+•  das Café - kafe
+Sollen wir uns im Café treffen? - Kafedə görüşək?
+•  bequem - rahat
+Das Sofa ist sehr bequem. - Divan çox rahatdır.
+•  zuverlässig - güvənli, etibarlı
+Er ist ein zuverlässiger Freund. - O, etibarlı dostdur.
